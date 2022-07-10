@@ -30,6 +30,42 @@ You can access the recordings of the meetings [here](https://youtube.com/playlis
 # Mysql
 - Adegbite Ayoade Abel [Team Lead](#)
 - [Olalekan](#)
+## How to use the MySQL database files:
+
+<p><img src="https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png" alt="UFO Day" /></p>
+
+- Download the MySQL files from [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MySQL)
+
+- The [ER Diagram](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png) shows the database relationship
+- Execute [this](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL.sql) file first.
+- Load the files in the following order because of the custom numbering.
+| shapes_id | shapes      |
+| :-------- | :---------- |
+| 1         | Changing    |
+| 2         | Chevron     |
+| 3         | Cigar       |
+| 4         | Circle      |
+| 5         | Cone        |
+| 6         | Cross       |
+| 7         | Cylinder    |
+| 8         | Delta       |
+| 9         | Diamond     |
+| 10        | Disk        |
+| 11        | Egg         |
+| 12        | Fireball    |
+| 13        | Flash       |
+| 14        | Formation   |
+| 15        | Light       |
+| 16        | Other       |
+| 17        | Oval        |
+| 18        | Rectangle   |
+| 19        | Sphere      |
+| 20        | Star        |
+| 21        | Teardrop    |
+| 22        | Triangle    |
+| 23        | Unknown     |
+| 24        | Unspecified |
+
 # PostgreSQL
 - Adegbite Ayoade Abel [Team Lead](#)
 - [Olalekan](#)
