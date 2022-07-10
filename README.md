@@ -32,7 +32,7 @@ You can access the recordings of the meetings [here](https://youtube.com/playlis
 - [Olalekan](#)
 ## How to use the MySQL database files:
 
-<p><img src="https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png" alt="UFO Day" /></p>
+<p><img src="https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png" alt="MySQL ER Diagram" /></p>
 
 - Download the MySQL files from [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MySQL)
 
@@ -67,6 +67,74 @@ You can access the recordings of the meetings [here](https://youtube.com/playlis
 # PostgreSQL
 - Adegbite Ayoade Abel [Team Lead](#)
 - [Olalekan](#)
+
+## How to use the PostgreSQL database files:
+
+<p><img src="https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png" alt="PostgreSQL ER Diagram" /></p>
+
+- Download the PostgreSQL files from [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MySQL)
+
+- The [ER Diagram](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png) shows the database relationship
+- Execute [this](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL.sql) file first.
+- Load the files in the following order because of the custom numbering.
+   - Changing
+   - Chevron
+   - Cigar
+   - Circle
+   - Cone
+   - Cross
+   - Cylinder
+   - Delta
+   - Diamond
+   - Disk
+   - Egg
+   - Fireball
+   - Flash
+   - Formation
+   - Light
+   - Other
+   - Oval
+   - Rectangle
+   - Sphere
+   - Star
+   - Teardrop
+   - Triangle
+   - Unknown
+   - Unspecified
 # MSSQL
 - Adegbite Ayoade Abel [Team Lead](#)
 - [Olalekan](#)
+
+## How to use the MSSQL database files:
+
+<p><img src="https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png" alt="MSSQL ER Diagram" /></p>
+
+- Download the MSSQL files from [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MySQL)
+
+- The [ER Diagram](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png) shows the database relationship
+- Execute [this](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL.sql) file first.
+- Load the files in the following order because of the custom numbering.
+   - Changing
+   - Chevron
+   - Cigar
+   - Circle
+   - Cone
+   - Cross
+   - Cylinder
+   - Delta
+   - Diamond
+   - Disk
+   - Egg
+   - Fireball
+   - Flash
+   - Formation
+   - Light
+   - Other
+   - Oval
+   - Rectangle
+   - Sphere
+   - Star
+   - Teardrop
+   - Triangle
+   - Unknown
+   - Unspecified
