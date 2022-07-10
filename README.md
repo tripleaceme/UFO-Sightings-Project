@@ -16,8 +16,9 @@ After exploring numerous dashbaords of the UFO projects [here](https://public.ta
 You can access the recordings of the meetings [here](https://youtube.com/playlist?list=PLZeM46MmNWu3qCbHymD2oyaFsd__Xemkj)
 
 # Project Data File Directory
-- Raw Files [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/Raw%20Files) - Contains the original data sources by shape from NUFORC
-- Cleaned Files [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/Cleaned%20Files) - Contains the cleaned data
+- Raw Files [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/Raw%20Files) - Contains the original data sources by shape pulled from the NUFORC website using Excel and cleaned up in Excel.
+
+- Cleaned Files [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/Cleaned%20Files) - Contains the cleaned data in csv format.
 - MySQL [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MySQL) - Contains the Mysql database version of the files
 - PostgreSQL [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/PostgreSQL) - Contains the PostgreSQL database version of the files
 - MSSQL [Here](https://github.com/tripleaceme/UFO-Sightings-Project/tree/main/MSSQL) - Contains the MSSQL database version of the files
