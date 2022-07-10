@@ -1,4 +1,4 @@
-City,State,Country,Shape_id,Image_Share,Date,New_time
+City,State,Country,Shape_id,Image,Date,Time
 San Francisco,CA,USA,4,No,06/12/2022,22:04:00
 Stockton,CA,USA,4,Yes,06/12/2022,04:31:00
 Covington,GA,USA,4,No,06/12/2022,02:00:00
