@@ -39,31 +39,31 @@ You can access the recordings of the meetings [here](https://youtube.com/playlis
 - The [ER Diagram](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL%20ER%20Diagram.png) shows the database relationship
 - Execute [this](https://github.com/tripleaceme/UFO-Sightings-Project/blob/main/MySQL/UFO_Sighting_MySQL.sql) file first.
 - Load the files in the following order because of the custom numbering.
-| shapes_id | shapes      |
-| :-------- | :---------- |
-| 1         | Changing    |
-| 2         | Chevron     |
-| 3         | Cigar       |
-| 4         | Circle      |
-| 5         | Cone        |
-| 6         | Cross       |
-| 7         | Cylinder    |
-| 8         | Delta       |
-| 9         | Diamond     |
-| 10        | Disk        |
-| 11        | Egg         |
-| 12        | Fireball    |
-| 13        | Flash       |
-| 14        | Formation   |
-| 15        | Light       |
-| 16        | Other       |
-| 17        | Oval        |
-| 18        | Rectangle   |
-| 19        | Sphere      |
-| 20        | Star        |
-| 21        | Teardrop    |
-| 22        | Triangle    |
-| 23        | Unknown     |
+| shapes_id | shapes      |<br>
+| :-------- | :---------- |<br>
+| 1         | Changing    |<br>
+| 2         | Chevron     |<br>
+| 3         | Cigar       |<br>
+| 4         | Circle      |<br>
+| 5         | Cone        |<br>
+| 6         | Cross       |<br>
+| 7         | Cylinder    |<br>
+| 8         | Delta       |<br>
+| 9         | Diamond     |<br>
+| 10        | Disk        |<br>
+| 11        | Egg         |<br>
+| 12        | Fireball    |<br>
+| 13        | Flash       |<br>
+| 14        | Formation   |<br>
+| 15        | Light       |<br>
+| 16        | Other       |<br>
+| 17        | Oval        |<br>
+| 18        | Rectangle   |<br>
+| 19        | Sphere      |<br>
+| 20        | Star        |<br>
+| 21        | Teardrop    |<br>
+| 22        | Triangle    |<br>
+| 23        | Unknown     |<br>
 | 24        | Unspecified |
 
 # PostgreSQL
